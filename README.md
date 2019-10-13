@@ -6,4 +6,4 @@ Time analysis of bitcoin transactions year on year
 
 Top 10 donors to wikileaks bitcoin wallet address
 
-<img src="http://www.lovell.me/project/bitcoin/top.jpg"width="400px"/>
+<img src="http://www.lovell.me/project/bitcoin/top.jpg" width="400px"/>
