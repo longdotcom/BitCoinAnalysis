@@ -2,7 +2,7 @@ Python project using a combination of MapReduce and Spark to analyse BitCoin tra
 
 Time analysis of bitcoin transactions year on year
 
-<img src="http://www.lovell.me/project/bitcoin/hist.jpg" width="450px"/>
+<img src="http://www.lovell.me/project/bitcoin/hist.jpg" width="500px"/>
 
 Top 10 donors to wikileaks bitcoin wallet address
 
